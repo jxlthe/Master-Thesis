@@ -1,0 +1,33 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Sorghum bicolor)
+Reference List:	Sorghum bicolor (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Sorghum bicolor - REFLIST (33746)	upload_1 (29)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+eukaryotic translation elongation factor 1 complex (GO:0005853)	3	2	.00	+	 > 100	7.11E-06	2.06E-03
+SMN complex (GO:0032797)	4	2	.00	+	 > 100	1.07E-05	2.31E-03
+vacuolar proton-transporting V-type ATPase, V1 domain (GO:0000221)	6	2	.01	+	 > 100	1.99E-05	2.46E-03
+vacuolar proton-transporting V-type ATPase complex (GO:0016471)	9	2	.01	+	 > 100	3.90E-05	4.23E-03
+SMN-Sm protein complex (GO:0034719)	10	2	.01	+	 > 100	4.67E-05	4.51E-03
+proton-transporting V-type ATPase, V1 domain (GO:0033180)	12	2	.01	+	 > 100	6.44E-05	5.08E-03
+proton-transporting V-type ATPase complex (GO:0033176)	22	2	.02	+	 > 100	1.94E-04	1.30E-02
+proton-transporting two-sector ATPase complex, catalytic domain (GO:0033178)	34	2	.03	+	68.45	4.40E-04	2.12E-02
+nuclear pore (GO:0005643)	44	2	.04	+	52.89	7.20E-04	3.12E-02
+proton-transporting two-sector ATPase complex (GO:0016469)	55	2	.05	+	42.31	1.10E-03	4.56E-02
+cytosolic large ribosomal subunit (GO:0022625)	121	3	.10	+	28.85	1.65E-04	1.19E-02
+large ribosomal subunit (GO:0015934)	157	3	.13	+	22.24	3.48E-04	1.78E-02
+vacuole (GO:0005773)	236	4	.20	+	19.72	5.14E-05	4.46E-03
+cytosolic ribosome (GO:0022626)	201	3	.17	+	17.37	7.07E-04	3.23E-02
+cytosol (GO:0005829)	959	7	.82	+	8.49	1.38E-05	1.99E-03
+protein-containing complex (GO:0032991)	2793	11	2.40	+	4.58	1.07E-05	1.86E-03
+cytoplasm (GO:0005737)	6486	20	5.57	+	3.59	7.88E-09	6.84E-06
+intracellular anatomical structure (GO:0005622)	10491	22	9.02	+	2.44	9.25E-07	4.01E-04
+cellular anatomical entity (GO:0110165)	16364	24	14.06	+	1.71	2.47E-04	1.53E-02
+cellular_component (GO:0005575)	16502	24	14.18	+	1.69	2.59E-04	1.40E-02
+Unclassified (UNCLASSIFIED)	17244	5	14.82	-	.34	2.59E-04	1.50E-02

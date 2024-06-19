@@ -1,0 +1,51 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Triticum aestivum - REFLIST (103387)	upload_1 (133)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+positive regulation of response to external stimulus (GO:0032103)	33	3	.04	+	70.67	1.43E-05	4.10E-03
+positive regulation of defense response (GO:0031349)	33	3	.04	+	70.67	1.43E-05	3.81E-03
+positive regulation of response to biotic stimulus (GO:0002833)	33	3	.04	+	70.67	1.43E-05	3.56E-03
+malate metabolic process (GO:0006108)	37	3	.05	+	63.03	1.98E-05	4.60E-03
+xyloglucan biosynthetic process (GO:0009969)	78	6	.10	+	59.80	1.50E-09	2.79E-06
+positive regulation of response to stimulus (GO:0048584)	74	3	.10	+	31.51	1.41E-04	1.95E-02
+regulation of response to biotic stimulus (GO:0002831)	94	3	.12	+	24.81	2.80E-04	3.59E-02
+plant-type primary cell wall biogenesis (GO:0009833)	95	3	.12	+	24.55	2.88E-04	3.25E-02
+regulation of response to external stimulus (GO:0032101)	97	3	.12	+	24.04	3.06E-04	3.25E-02
+cytoskeleton-dependent cytokinesis (GO:0061640)	102	3	.13	+	22.86	3.53E-04	3.65E-02
+mitotic cytokinesis (GO:0000281)	102	3	.13	+	22.86	3.53E-04	3.55E-02
+glucan biosynthetic process (GO:0009250)	315	9	.41	+	22.21	4.99E-10	1.86E-06
+flavonoid biosynthetic process (GO:0009813)	110	3	.14	+	21.20	4.38E-04	4.28E-02
+flavonoid metabolic process (GO:0009812)	110	3	.14	+	21.20	4.38E-04	4.17E-02
+cell wall polysaccharide biosynthetic process (GO:0070592)	222	6	.29	+	21.01	5.80E-07	2.70E-04
+xyloglucan metabolic process (GO:0010411)	222	6	.29	+	21.01	5.80E-07	2.40E-04
+cell wall biogenesis (GO:0042546)	459	9	.59	+	15.24	1.21E-08	1.50E-05
+polysaccharide biosynthetic process (GO:0000271)	476	9	.61	+	14.70	1.64E-08	1.53E-05
+amino acid transmembrane transport (GO:0003333)	279	5	.36	+	13.93	3.62E-05	7.08E-03
+amino acid transport (GO:0006865)	288	5	.37	+	13.50	4.20E-05	7.80E-03
+glucan metabolic process (GO:0044042)	653	9	.84	+	10.71	2.28E-07	1.41E-04
+organic acid transmembrane transport (GO:1903825)	367	5	.47	+	10.59	1.29E-04	1.91E-02
+carboxylic acid transmembrane transport (GO:1905039)	367	5	.47	+	10.59	1.29E-04	1.84E-02
+carbohydrate biosynthetic process (GO:0016051)	710	9	.91	+	9.85	4.53E-07	2.41E-04
+hemicellulose metabolic process (GO:0010410)	516	6	.66	+	9.04	6.38E-05	1.13E-02
+carboxylic acid transport (GO:0046942)	438	5	.56	+	8.87	2.88E-04	3.45E-02
+organic acid transport (GO:0015849)	438	5	.56	+	8.87	2.88E-04	3.34E-02
+cell wall polysaccharide metabolic process (GO:0010383)	553	6	.71	+	8.43	9.27E-05	1.44E-02
+cell wall organization (GO:0071555)	839	9	1.08	+	8.34	1.75E-06	6.52E-04
+external encapsulating structure organization (GO:0045229)	853	9	1.10	+	8.20	2.00E-06	6.77E-04
+cell wall macromolecule metabolic process (GO:0044036)	630	6	.81	+	7.40	1.86E-04	2.47E-02
+cell wall organization or biogenesis (GO:0071554)	1341	12	1.73	+	6.96	2.13E-07	1.58E-04
+protein folding (GO:0006457)	690	6	.89	+	6.76	3.01E-04	3.29E-02
+polysaccharide metabolic process (GO:0005976)	1360	9	1.75	+	5.14	7.59E-05	1.23E-02
+response to stimulus (GO:0050896)	10855	1	13.96	-	.07	1.23E-05	3.82E-03
+nucleobase-containing compound metabolic process (GO:0006139)	6809	0	8.76	-	 < 0.01	2.83E-04	3.50E-02
+cellular aromatic compound metabolic process (GO:0006725)	8253	0	10.62	-	 < 0.01	3.28E-05	6.76E-03
+organic cyclic compound metabolic process (GO:1901360)	8511	0	10.95	-	 < 0.01	2.10E-05	4.59E-03
+heterocycle metabolic process (GO:0046483)	7503	0	9.65	-	 < 0.01	7.45E-05	1.26E-02

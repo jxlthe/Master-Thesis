@@ -1,0 +1,42 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Triticum aestivum - REFLIST (103387)	upload_1 (38)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+eukaryotic translation elongation factor 1 complex (GO:0005853)	6	2	.00	+	 > 100	3.68E-06	1.97E-04
+SMN complex (GO:0032797)	11	3	.00	+	 > 100	1.66E-08	4.46E-06
+vacuolar proton-transporting V-type ATPase, V1 domain (GO:0000221)	12	3	.00	+	 > 100	2.08E-08	4.18E-06
+SMN-Sm protein complex (GO:0034719)	19	3	.01	+	 > 100	7.01E-08	8.06E-06
+proton-transporting V-type ATPase, V1 domain (GO:0033180)	20	3	.01	+	 > 100	8.06E-08	8.11E-06
+vacuolar proton-transporting V-type ATPase complex (GO:0016471)	24	3	.01	+	 > 100	1.33E-07	1.07E-05
+proton-transporting V-type ATPase complex (GO:0033176)	45	3	.02	+	 > 100	7.82E-07	4.50E-05
+proton-transporting two-sector ATPase complex, catalytic domain (GO:0033178)	123	3	.05	+	66.36	1.44E-05	6.84E-04
+nuclear pore (GO:0005643)	135	3	.05	+	60.46	1.89E-05	8.47E-04
+Sm-like protein family complex (GO:0120114)	181	3	.07	+	45.09	4.46E-05	1.63E-03
+cytosolic large ribosomal subunit (GO:0022625)	306	5	.11	+	44.46	1.10E-07	9.85E-06
+nuclear envelope (GO:0005635)	211	3	.08	+	38.68	6.98E-05	2.34E-03
+large ribosomal subunit (GO:0015934)	438	5	.16	+	31.06	6.30E-07	4.22E-05
+proton-transporting two-sector ATPase complex (GO:0016469)	268	3	.10	+	30.46	1.40E-04	4.52E-03
+cytosolic ribosome (GO:0022626)	456	5	.17	+	29.83	7.66E-07	4.74E-05
+vacuolar membrane (GO:0005774)	315	3	.12	+	25.91	2.24E-04	6.94E-03
+ATPase complex (GO:1904949)	353	3	.13	+	23.12	3.12E-04	9.30E-03
+vacuole (GO:0005773)	817	6	.30	+	19.98	5.54E-07	4.05E-05
+ribosomal subunit (GO:0044391)	747	5	.27	+	18.21	8.25E-06	4.15E-04
+ribosome (GO:0005840)	1102	5	.41	+	12.34	5.21E-05	1.82E-03
+cytosol (GO:0005829)	2685	10	.99	+	10.13	3.45E-08	5.55E-06
+ribonucleoprotein complex (GO:1990904)	2220	5	.82	+	6.13	1.28E-03	3.42E-02
+protein-containing complex (GO:0032991)	8991	16	3.30	+	4.84	3.70E-08	4.96E-06
+cytoplasm (GO:0005737)	19024	27	6.99	+	3.86	2.02E-12	1.63E-09
+intracellular anatomical structure (GO:0005622)	31652	29	11.63	+	2.49	8.69E-09	3.50E-06
+intracellular organelle (GO:0043229)	26124	19	9.60	+	1.98	1.12E-03	3.21E-02
+organelle (GO:0043226)	26199	19	9.63	+	1.97	1.14E-03	3.18E-02
+cellular anatomical entity (GO:0110165)	51934	32	19.09	+	1.68	2.45E-05	1.04E-03
+cellular_component (GO:0005575)	52441	32	19.27	+	1.66	2.60E-05	9.97E-04
+Unclassified (UNCLASSIFIED)	50946	6	18.73	-	.32	2.60E-05	1.05E-03

@@ -1,0 +1,43 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Triticum aestivum - REFLIST (103387)	upload_1 (38)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+Hsp70 protein binding (GO:0030544)	30	3	.01	+	 > 100	2.48E-07	1.45E-04
+N-acylphosphatidylethanolamine-specific phospholipase D activity (GO:0070290)	48	3	.02	+	 > 100	9.41E-07	4.42E-04
+phospholipase D activity (GO:0004630)	48	3	.02	+	 > 100	9.41E-07	3.69E-04
+cyclosporin A binding (GO:0016018)	33	2	.01	+	 > 100	7.76E-05	9.60E-03
+strictosidine synthase activity (GO:0016844)	69	3	.03	+	 > 100	2.68E-06	9.00E-04
+amine-lyase activity (GO:0016843)	74	3	.03	+	 > 100	3.28E-06	9.64E-04
+proton-transporting ATPase activity, rotational mechanism (GO:0046961)	87	3	.03	+	93.82	5.26E-06	1.37E-03
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism (GO:0044769)	87	3	.03	+	93.82	5.26E-06	1.24E-03
+ATPase-coupled ion transmembrane transporter activity (GO:0042625)	87	3	.03	+	93.82	5.26E-06	1.12E-03
+translation elongation factor activity (GO:0003746)	73	2	.03	+	74.54	3.59E-04	3.24E-02
+protein-folding chaperone binding (GO:0051087)	156	3	.06	+	52.32	2.89E-05	5.66E-03
+carbon-nitrogen lyase activity (GO:0016840)	165	3	.06	+	49.47	3.41E-05	6.15E-03
+phosphoric diester hydrolase activity (GO:0008081)	167	3	.06	+	48.88	3.53E-05	5.92E-03
+heat shock protein binding (GO:0031072)	168	3	.06	+	48.58	3.59E-05	5.62E-03
+GTPase activator activity (GO:0005096)	170	3	.06	+	48.01	3.72E-05	5.46E-03
+nucleoside-triphosphatase regulator activity (GO:0060589)	309	5	.11	+	44.02	1.16E-07	2.71E-04
+GTPase regulator activity (GO:0030695)	309	5	.11	+	44.02	1.16E-07	1.36E-04
+ribosome binding (GO:0043022)	190	3	.07	+	42.96	5.14E-05	7.11E-03
+ATPase-coupled monoatomic cation transmembrane transporter activity (GO:0019829)	196	3	.07	+	41.64	5.63E-05	7.35E-03
+phospholipase activity (GO:0004620)	220	3	.08	+	37.10	7.89E-05	9.27E-03
+ribonucleoprotein complex binding (GO:0043021)	226	3	.08	+	36.12	8.53E-05	9.55E-03
+enzyme activator activity (GO:0008047)	317	3	.12	+	25.75	2.28E-04	2.44E-02
+lipase activity (GO:0016298)	325	3	.12	+	25.11	2.46E-04	2.51E-02
+molecular function activator activity (GO:0140677)	354	3	.13	+	23.06	3.15E-04	2.96E-02
+active monoatomic ion transmembrane transporter activity (GO:0022853)	417	3	.15	+	19.57	5.05E-04	3.95E-02
+enzyme regulator activity (GO:0030234)	1758	5	.65	+	7.74	4.50E-04	3.65E-02
+molecular function regulator activity (GO:0098772)	1844	5	.68	+	7.38	5.58E-04	4.23E-02
+RNA binding (GO:0003723)	4128	11	1.52	+	7.25	1.84E-07	1.44E-04
+nucleic acid binding (GO:0003676)	12278	13	4.51	+	2.88	2.81E-04	2.75E-02
+molecular_function (GO:0003674)	58267	32	21.42	+	1.49	4.32E-04	3.76E-02
+Unclassified (UNCLASSIFIED)	45120	6	16.58	-	.36	4.32E-04	3.63E-02

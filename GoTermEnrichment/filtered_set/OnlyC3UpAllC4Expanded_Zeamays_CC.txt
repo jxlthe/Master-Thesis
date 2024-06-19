@@ -1,0 +1,31 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Zea mays)
+Reference List:	Zea mays (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Zea mays - REFLIST (39198)	upload_1 (33)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+SMN complex (GO:0032797)	3	2	.00	+	 > 100	6.85E-06	1.45E-03
+eukaryotic translation elongation factor 1 complex (GO:0005853)	3	2	.00	+	 > 100	6.85E-06	1.16E-03
+vacuolar proton-transporting V-type ATPase, V1 domain (GO:0000221)	4	2	.00	+	 > 100	1.03E-05	1.45E-03
+SMN-Sm protein complex (GO:0034719)	6	2	.01	+	 > 100	1.92E-05	1.62E-03
+vacuolar proton-transporting V-type ATPase complex (GO:0016471)	8	2	.01	+	 > 100	3.07E-05	2.17E-03
+proton-transporting V-type ATPase, V1 domain (GO:0033180)	13	2	.01	+	 > 100	7.16E-05	4.33E-03
+proton-transporting V-type ATPase complex (GO:0033176)	35	2	.03	+	67.88	4.49E-04	2.38E-02
+proton-transporting two-sector ATPase complex, catalytic domain (GO:0033178)	47	2	.04	+	50.55	7.87E-04	3.71E-02
+nuclear pore (GO:0005643)	52	2	.04	+	45.69	9.55E-04	4.26E-02
+cytosolic large ribosomal subunit (GO:0022625)	134	4	.11	+	35.46	5.54E-06	1.57E-03
+large ribosomal subunit (GO:0015934)	181	4	.15	+	26.25	1.76E-05	1.66E-03
+cytosolic ribosome (GO:0022626)	205	4	.17	+	23.18	2.84E-05	2.19E-03
+vacuole (GO:0005773)	238	4	.20	+	19.96	5.02E-05	3.28E-03
+ribosomal subunit (GO:0044391)	304	4	.26	+	15.63	1.27E-04	7.20E-03
+cytosol (GO:0005829)	943	7	.79	+	8.82	1.18E-05	1.43E-03
+protein-containing complex (GO:0032991)	3482	12	2.93	+	4.09	1.46E-05	1.54E-03
+cytoplasm (GO:0005737)	6984	22	5.88	+	3.74	8.41E-10	7.14E-07
+intracellular anatomical structure (GO:0005622)	11930	25	10.04	+	2.49	1.08E-07	4.58E-05
+cellular anatomical entity (GO:0110165)	18180	25	15.31	+	1.63	7.44E-04	3.71E-02

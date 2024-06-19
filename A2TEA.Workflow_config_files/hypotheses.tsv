@@ -1,0 +1,12 @@
+hypothesis	1	2	3	4	5	6	7	8	9	10	11	12
+name	"Expanded	in	Msi,	Compared	to	Osj"	"Expanded	in	Msi,	Compared	to	Ta"	"Expanded	in	Msi,	Compared	to	Osj,	Ta"	"Expanded	in	Sb,	Compared	to	Osj"	"Expanded	in	Sb,	Compared	to	Ta"	"Expanded	in	Sb,	Compared	to	Osj,	Ta"	"Expanded	in	Zm,	Compared	to	Osj"	"Expanded	in	Zm,	Compared	to	Ta"	"Expanded	in	Zm,	Compared	to	Osj,	Ta"	"Expanded	in	Msi,	Sb,	Zm,	Compared	to	Osj"	"Expanded	in	Msi,	Sb,	Zm,	Compared	to	Ta"	"Expanded	in	Msi,	Sb,	Zm,	Compared	to	Osj,	Ta"
+expanded_in	Miscanthus_sinensis	Miscanthus_sinensis	Miscanthus_sinensis	Sorghum_bicolor	Sorghum_bicolor	Sorghum_bicolor	Zea_mays	Zea_mays	Zea_mays	Miscanthus_sinensis;Sorghum_bicolor;Zea_mays	Miscanthus_sinensis;Sorghum_bicolor;Zea_mays	Miscanthus_sinensis;Sorghum_bicolor;Zea_mays
+compared_to	Oryza_sativa	Triticum_aestivum	Oryza_sativa;Triticum_aestivum	Oryza_sativa	Triticum_aestivum	Oryza_sativa;Triticum_aestivum	Oryza_sativa	Triticum_aestivum	Oryza_sativa;Triticum_aestivum	Oryza_sativa	Triticum_aestivum	Oryza_sativa;Triticum_aestivum
+Nmin_expanded_in	1	1	1	1	1	1	1	1	1	3	3	3
+Nmin_compared_to	1	1	2	1	1	2	1	1	2	1	1	2
+min_expansion_factor	2	2	2	2	2	2	2	2	2	2	2	2
+min_expansion_difference	10	10	10	10	10	10	10	10	10	10	10	10
+Nmin_expanded_genes	2	2	2	2	2	2	2	2	2	2	2	2
+ploidy_normalization	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+expanded_in_all_found	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+compared_to_all_found	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES

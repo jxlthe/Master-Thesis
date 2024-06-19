@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Zea mays)
+Reference List:	Zea mays (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Zea mays - REFLIST (39198)	upload_1 (139)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+P-type divalent copper transporter activity (GO:0043682)	4	2	.01	+	 > 100	1.84E-04	2.65E-02
+dipeptidyl-peptidase activity (GO:0008239)	6	2	.02	+	94.00	3.42E-04	4.41E-02
+methionine adenosyltransferase activity (GO:0004478)	6	2	.02	+	94.00	3.42E-04	4.19E-02
+histone H3K4 demethylase activity (GO:0032453)	10	3	.04	+	84.60	1.20E-05	4.20E-03
+histone H3 demethylase activity (GO:0141052)	22	3	.08	+	38.45	9.38E-05	1.76E-02
+alpha-(1,2)-fucosyltransferase activity (GO:0031127)	32	4	.11	+	35.25	8.05E-06	4.93E-03
+galactoside 2-alpha-L-fucosyltransferase activity (GO:0008107)	32	4	.11	+	35.25	8.05E-06	3.94E-03
+nucleosomal DNA binding (GO:0031492)	33	4	.12	+	34.18	9.01E-06	3.67E-03
+protein demethylase activity (GO:0140457)	25	3	.09	+	33.84	1.33E-04	2.32E-02
+histone demethylase activity (GO:0032452)	25	3	.09	+	33.84	1.33E-04	2.16E-02
+fucosyltransferase activity (GO:0008417)	39	4	.14	+	28.92	1.66E-05	5.06E-03
+nucleosome binding (GO:0031491)	47	4	.17	+	24.00	3.28E-05	8.91E-03
+chromatin DNA binding (GO:0031490)	49	4	.17	+	23.02	3.82E-05	7.79E-03
+unfolded protein binding (GO:0051082)	161	9	.57	+	15.76	1.08E-08	2.63E-05
+structural constituent of chromatin (GO:0030527)	74	4	.26	+	15.24	1.74E-04	2.66E-02
+hexosyltransferase activity (GO:0016758)	466	11	1.65	+	6.66	1.15E-06	1.41E-03
+glycosyltransferase activity (GO:0016757)	859	14	3.05	+	4.60	2.87E-06	2.34E-03
+catalytic activity (GO:0003824)	11710	62	41.52	+	1.49	2.67E-04	3.63E-02
+molecular_function (GO:0003674)	20838	98	73.89	+	1.33	3.78E-05	8.41E-03
+Unclassified (UNCLASSIFIED)	18360	41	65.11	-	.63	3.78E-05	9.25E-03

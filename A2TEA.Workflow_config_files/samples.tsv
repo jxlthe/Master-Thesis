@@ -1,0 +1,27 @@
+species	sample	unit	condition	fq1	fq2	fragment_length_mean	fragment_length_sd
+Oryza_sativa	Chilbo	control_1	control	SRR5134063_1.fastq.gz	SRR5134063_2.fastq.gz
+Oryza_sativa	Chilbo	control_2	control	SRR5134064_1.fastq.gz	SRR5134064_2.fastq.gz
+Oryza_sativa	Chilbo	drought_1	drought	SRR5134065_1.fastq.gz	SRR5134065_2.fastq.gz
+Oryza_sativa	Chilbo	drought_2	drought	SRR5134066_1.fastq.gz	SRR5134066_2.fastq.gz
+Triticum_aestivum	TAM107	control_1	control	SRR1542404_1.fastq.gz	SRR1542404_2.fastq.gz
+Triticum_aestivum	TAM107	control_2	control	SRR1542405_1.fastq.gz	SRR1542405_2.fastq.gz
+Triticum_aestivum	TAM107	drought_1	drought	SRR1542408_1.fastq.gz	SRR1542408_2.fastq.gz
+Triticum_aestivum	TAM107	drought_2	drought	SRR1542409_1.fastq.gz	SRR1542409_2.fastq.gz
+Sorghum_bicolor	IS20351	control_1	control	SRR3452723_2.fastq.gz	
+Sorghum_bicolor	IS20351	control_2	control	SRR3452724_1.fastq.gz	SRR3452724_2.fastq.gz
+Sorghum_bicolor	IS20351	control_3	control	SRR3452725_1.fastq.gz	SRR3452725_2.fastq.gz
+Sorghum_bicolor	IS20351	drought_1	drought	SRR3452726_1.fastq.gz	SRR3452726_2.fastq.gz
+Sorghum_bicolor	IS20351	drought_2	drought	SRR3452727_1.fastq.gz	SRR3452727_2.fastq.gz
+Sorghum_bicolor	IS20351	drought_3	drought	SRR3452728_1.fastq.gz	SRR3452728_2.fastq.gz
+Miscanthus_sinensis	accession48	control_1	control	ERR4373022_1.fastq.gz	ERR4373022_2.fastq.gz
+Miscanthus_sinensis	accession48	control_2	control	ERR4373023_1.fastq.gz	ERR4373023_2.fastq.gz
+Miscanthus_sinensis	accession48	control_3	control	ERR4373024_1.fastq.gz	ERR4373024_2.fastq.gz
+Miscanthus_sinensis	accession48	drought_1	drought	ERR4373025_1.fastq.gz	ERR4373025_2.fastq.gz
+Miscanthus_sinensis	accession48	drought_2	drought	ERR4373027_1.fastq.gz	ERR4373027_2.fastq.gz
+Zea_mays	B73	control_1	control	SRR2043191.fastq.gz
+Zea_mays	B73	control_2	control	SRR2043217.fastq.gz
+Zea_mays	B73	control_3	control	SRR2043219.fastq.gz
+Zea_mays	B73	drought_1	drought	SRR2043220.fastq.gz
+Zea_mays	B73	drought_2	drought	SRR2043226.fastq.gz
+Zea_mays	B73	drought_3	drought	SRR2043227.fastq.gz
+Zea_mays	B73	drought_4	drought	SRR2043228.fastq.gz

@@ -1,0 +1,6 @@
+species	ploidy	pep_fasta	cDNA_fasta	gen_fasta	annotation	function
+Oryza_sativa	2	FS/proteomes/min100aa/Oryza_sativa.IRGSP-1.0.pep.all_min100aa.fa		FS/Oryza_sativa.IRGSP-1.0.dna.toplevel.fa.gz	FS/Oryza_sativa.IRGSP-1.0.57.gff3.gz	AHRD
+Triticum_aestivum	6	FS/proteomes/min100aa/Triticum_aestivum.IWGSC.pep.all_min100aa.fa		FS/Triticum_aestivum.IWGSC.dna.toplevel.fa.gz	FS/Triticum_aestivum.IWGSC.57.gff3.gz	AHRD
+Sorghum_bicolor	2	FS/proteomes/min100aa/Sorghum_bicolor.Sorghum_bicolor_NCBIv3.pep.all_min100aa.fa		FS/Sorghum_bicolor.Sorghum_bicolor_NCBIv3.dna.toplevel.fa.gz	FS/Sorghum_bicolor.Sorghum_bicolor_NCBIv3.57.gff3.gz	AHRD
+Miscanthus_sinensis	4	FS/proteomes/min100aa/Msinensis_497_v7.1.protein_min100aa.fa		FS/Msinensis_497_v7.0.fa.gz	FS/Msinensis_497_v7.1.gene.gff3.gz	AHRD
+Zea_mays	2	FS/proteomes/min100aa/Zea_mays.Zm-B73-REFERENCE-NAM-5.0.pep.all_min100aa.fa		FS/Zea_mays.Zm-B73-REFERENCE-NAM-5.0.dna.toplevel.fa.gz	FS/Zea_mays.Zm-B73-REFERENCE-NAM-5.0.57.gff3.gz	AHRD

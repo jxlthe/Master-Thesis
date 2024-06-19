@@ -1,0 +1,3 @@
+TermID	Name	Value	LogSize	Frequency	Uniqueness	Dispensability	Representative
+"GO:0005634"	"nucleus"	NaN	6.51061631443438	12.339605699963672	1	0.30905569	null
+"GO:0005737"	"cytoplasm"	NaN	6.8186438164079854	25.080076249313628	1	0	null

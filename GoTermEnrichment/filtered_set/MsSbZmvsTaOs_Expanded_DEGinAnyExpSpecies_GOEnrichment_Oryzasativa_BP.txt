@@ -1,0 +1,17 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Oryza sativa)
+Reference List:	Oryza sativa (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Oryza sativa - REFLIST (43659)	upload_1 (50)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+cell wall organization (GO:0071555)	323	6	.37	+	16.22	2.09E-06	9.13E-03
+external encapsulating structure organization (GO:0045229)	345	6	.40	+	15.19	3.03E-06	3.31E-03
+cell wall organization or biogenesis (GO:0071554)	479	6	.55	+	10.94	1.90E-05	1.66E-02
+biological_process (GO:0008150)	16202	35	18.56	+	1.89	2.81E-06	4.10E-03
+Unclassified (UNCLASSIFIED)	27457	15	31.44	-	.48	2.81E-06	6.14E-03

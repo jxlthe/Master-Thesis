@@ -1,0 +1,253 @@
+"","set.GOID","set.GOTERM","p_adjust","total","interest","set_total","set_interest"
+"17","GO:0071555","cell wall organization",0.0303017418770333,14771,326,51,7
+"7","GO:0031349","positive regulation of defense response",0.058005551418328,14771,18,51,2
+"28","GO:0019953","sexual reproduction",0.058005551418328,14771,13,51,2
+"48","GO:0042691","positive regulation of crystal cell differentiation",0.058005551418328,14771,1,51,1
+"75","GO:0035694","mitochondrial protein catabolic process",0.058005551418328,14771,1,51,1
+"91","GO:0042178","xenobiotic catabolic process",0.058005551418328,14771,1,51,1
+"94","GO:0043090","amino acid import",0.058005551418328,14771,1,51,1
+"172","GO:0102903","gamma-terpinene synthase activity",0.058005551418328,14771,1,51,1
+"204","GO:0140297","DNA-binding transcription factor binding",0.058005551418328,14771,1,51,1
+"210","GO:0102406","omega-hydroxypalmitate O-sinapoyl transferase activity",0.058005551418328,14771,1,51,1
+"211","GO:0004328","formamidase activity",0.058005551418328,14771,1,51,1
+"228","GO:0033771","licodione synthase activity",0.058005551418328,14771,1,51,1
+"229","GO:0102469","naringenin 2-hydroxylase activity",0.058005551418328,14771,1,51,1
+"230","GO:0102472","eriodictyol 2-hydroxylase activity",0.058005551418328,14771,1,51,1
+"233","GO:0047998","hyoscyamine (6S)-dioxygenase activity",0.058005551418328,14771,1,51,1
+"27","GO:0009653","anatomical structure morphogenesis",0.0599041759155194,14771,28,51,2
+"36","GO:0009813","flavonoid biosynthetic process",0.0599041759155194,14771,33,51,2
+"73","GO:0006123","mitochondrial electron transport, cytochrome c to oxygen",0.0599041759155194,14771,2,51,1
+"88","GO:0006805","xenobiotic metabolic process",0.0599041759155194,14771,2,51,1
+"96","GO:0005854","nascent polypeptide-associated complex",0.0599041759155194,14771,2,51,1
+"123","GO:0009317","acetyl-CoA carboxylase complex",0.0599041759155194,14771,2,51,1
+"163","GO:0004478","methionine adenosyltransferase activity",0.0599041759155194,14771,2,51,1
+"170","GO:0050551","myrcene synthase activity",0.0599041759155194,14771,2,51,1
+"171","GO:0050552","(4S)-limonene synthase activity",0.0599041759155194,14771,2,51,1
+"190","GO:0045552","dihydrokaempferol 4-reductase activity",0.0599041759155194,14771,2,51,1
+"191","GO:0047890","flavanone 4-reductase activity",0.0599041759155194,14771,2,51,1
+"203","GO:0051087","protein-folding chaperone binding",0.0599041759155194,14771,28,51,2
+"227","GO:0016712","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",0.0599041759155194,14771,2,51,1
+"247","GO:0052793","pectin acetylesterase activity",0.0599041759155194,14771,2,51,1
+"114","GO:0022625","cytosolic large ribosomal subunit",0.0704264058010865,14771,40,51,2
+"40","GO:0040010","positive regulation of growth rate",0.0812944769716405,14771,3,51,1
+"69","GO:0060966","regulation of gene silencing by regulatory ncRNA",0.0812944769716405,14771,3,51,1
+"13","GO:0006556","S-adenosylmethionine biosynthetic process",0.0844560852782114,14771,4,51,1
+"72","GO:0010888","negative regulation of lipid storage",0.0844560852782114,14771,4,51,1
+"127","GO:0010369","chromocenter",0.0844560852782114,14771,4,51,1
+"137","GO:0043661","peribacteroid membrane",0.0844560852782114,14771,4,51,1
+"179","GO:0050505","hydroquinone glucosyltransferase activity",0.0844560852782114,14771,4,51,1
+"192","GO:0008198","ferrous iron binding",0.0844560852782114,14771,4,51,1
+"193","GO:0032453","histone H3K4 demethylase activity",0.0844560852782114,14771,4,51,1
+"206","GO:0003989","acetyl-CoA carboxylase activity",0.0844560852782114,14771,4,51,1
+"238","GO:0046481","digalactosyldiacylglycerol synthase activity",0.0844560852782114,14771,4,51,1
+"60","GO:0052325","cell wall pectin biosynthetic process",0.084726657065396,14771,5,51,1
+"63","GO:0002833","positive regulation of response to biotic stimulus",0.084726657065396,14771,5,51,1
+"68","GO:0032103","positive regulation of response to external stimulus",0.084726657065396,14771,5,51,1
+"157","GO:0004473","malate dehydrogenase (decarboxylating) (NADP+) activity",0.084726657065396,14771,5,51,1
+"169","GO:0016838","carbon-oxygen lyase activity, acting on phosphates",0.084726657065396,14771,5,51,1
+"189","GO:0070008","serine-type exopeptidase activity",0.084726657065396,14771,5,51,1
+"194","GO:0034647","histone H3K4me/H3K4me2/H3K4me3 demethylase activity",0.084726657065396,14771,5,51,1
+"221","GO:0102070","18-hydroxyoleate peroxygenase activity",0.084726657065396,14771,5,51,1
+"222","GO:1990137","plant seed peroxidase activity",0.084726657065396,14771,5,51,1
+"236","GO:0140581","P-type monovalent copper transporter activity",0.084726657065396,14771,5,51,1
+"10","GO:0006865","amino acid transport",0.0882490451428028,14771,60,51,2
+"11","GO:0006090","pyruvate metabolic process",0.0924377318242958,14771,6,51,1
+"158","GO:0008948","oxaloacetate decarboxylase activity",0.0924377318242958,14771,6,51,1
+"165","GO:0016757","glycosyltransferase activity",0.0924377318242958,14771,456,51,5
+"248","GO:0035250","UDP-galactosyltransferase activity",0.0924377318242958,14771,6,51,1
+"77","GO:0009805","coumarin biosynthetic process",0.102187619622114,14771,7,51,1
+"156","GO:0004470","malic enzyme activity",0.102187619622114,14771,7,51,1
+"199","GO:0016776","phosphotransferase activity, phosphate group as acceptor",0.102187619622114,14771,7,51,1
+"57","GO:0055046","microgametogenesis",0.109186330975076,14771,8,51,1
+"59","GO:0010345","suberin biosynthetic process",0.109186330975076,14771,8,51,1
+"87","GO:0019375","galactolipid biosynthetic process",0.109186330975076,14771,8,51,1
+"122","GO:0030018","Z disc",0.109186330975076,14771,8,51,1
+"4","GO:0045893","positive regulation of DNA-templated transcription",0.110870497678467,14771,191,51,3
+"130","GO:0012511","monolayer-surrounded lipid storage body",0.118854314562118,14771,9,51,1
+"202","GO:0051082","unfolded protein binding",0.127143897616576,14771,83,51,2
+"65","GO:0006282","regulation of DNA repair",0.127902296941336,14771,10,51,1
+"61","GO:2000652","regulation of secondary cell wall biogenesis",0.136384329246448,14771,11,51,1
+"164","GO:0008107","galactoside 2-alpha-L-fucosyltransferase activity",0.136384329246448,14771,11,51,1
+"71","GO:1902290","positive regulation of defense response to oomycetes",0.138496410883263,14771,12,51,1
+"181","GO:0008171","O-methyltransferase activity",0.138496410883263,14771,12,51,1
+"184","GO:0052636","arabinosyltransferase activity",0.138496410883263,14771,12,51,1
+"235","GO:0019829","ATPase-coupled monoatomic cation transmembrane transporter activity",0.138496410883263,14771,12,51,1
+"251","GO:0030544","Hsp70 protein binding",0.138496410883263,14771,12,51,1
+"160","GO:0016616","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.140324047407775,14771,94,51,2
+"43","GO:0042908","xenobiotic transport",0.140986177933554,14771,13,51,1
+"161","GO:0046872","metal ion binding",0.140986177933554,14771,2523,51,14
+"195","GO:0051213","dioxygenase activity",0.140986177933554,14771,97,51,2
+"205","GO:0001671","ATPase activator activity",0.140986177933554,14771,13,51,1
+"159","GO:0016491","oxidoreductase activity",0.141793723260372,14771,957,51,7
+"49","GO:0050821","protein stabilization",0.143574170833552,14771,14,51,1
+"80","GO:0035434","copper ion transmembrane transport",0.143574170833552,14771,14,51,1
+"212","GO:0016811","hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",0.143574170833552,14771,14,51,1
+"33","GO:0010044","response to aluminum ion",0.14423761852815,14771,15,51,1
+"53","GO:0009561","megagametogenesis",0.14423761852815,14771,15,51,1
+"167","GO:0010333","terpene synthase activity",0.14423761852815,14771,15,51,1
+"207","GO:0004601","peroxidase activity",0.14423761852815,14771,105,51,2
+"219","GO:0020037","heme binding",0.14423761852815,14771,241,51,3
+"226","GO:0016709","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",0.14423761852815,14771,15,51,1
+"12","GO:0006108","malate metabolic process",0.149157082650173,14771,16,51,1
+"198","GO:0016772","transferase activity, transferring phosphorus-containing groups",0.149157082650173,14771,16,51,1
+"22","GO:0009833","plant-type primary cell wall biogenesis",0.15649354134871,14771,17,51,1
+"14","GO:0006730","one-carbon metabolic process",0.156894064400084,14771,18,51,1
+"46","GO:0051085","chaperone cofactor-dependent protein refolding",0.156894064400084,14771,18,51,1
+"244","GO:0035252","UDP-xylosyltransferase activity",0.156894064400084,14771,18,51,1
+"250","GO:0003714","transcription corepressor activity",0.156894064400084,14771,18,51,1
+"252","GO:0015171","amino acid transmembrane transporter activity",0.156894064400084,14771,18,51,1
+"9","GO:1900426","positive regulation of defense response to bacterium",0.157504856874819,14771,19,51,1
+"19","GO:0016102","diterpenoid biosynthetic process",0.157504856874819,14771,20,51,1
+"20","GO:0016114","terpenoid biosynthetic process",0.157504856874819,14771,20,51,1
+"41","GO:0045814","negative regulation of gene expression, epigenetic",0.157504856874819,14771,20,51,1
+"74","GO:0007005","mitochondrion organization",0.157504856874819,14771,20,51,1
+"83","GO:0009877","nodulation",0.157504856874819,14771,20,51,1
+"93","GO:0003333","amino acid transmembrane transport",0.157504856874819,14771,20,51,1
+"98","GO:0022626","cytosolic ribosome",0.157504856874819,14771,20,51,1
+"174","GO:0051753","mannan synthase activity",0.157504856874819,14771,19,51,1
+"209","GO:0050734","hydroxycinnamoyltransferase activity",0.157504856874819,14771,20,51,1
+"51","GO:0042026","protein refolding",0.162073533424513,14771,21,51,1
+"76","GO:0002238","response to molecule of fungal origin",0.162073533424513,14771,21,51,1
+"24","GO:0071669","plant-type cell wall organization or biogenesis",0.166452744902094,14771,22,51,1
+"58","GO:0098869","cellular oxidant detoxification",0.166452744902094,14771,129,51,2
+"231","GO:0016706","2-oxoglutarate-dependent dioxygenase activity",0.172176316643366,14771,23,51,1
+"35","GO:0009718","anthocyanin-containing compound biosynthetic process",0.173176746630312,14771,24,51,1
+"145","GO:0043565","sequence-specific DNA binding",0.173176746630312,14771,291,51,3
+"173","GO:0016760","cellulose synthase (UDP-forming) activity",0.173176746630312,14771,24,51,1
+"183","GO:0016763","pentosyltransferase activity",0.173176746630312,14771,24,51,1
+"124","GO:0005788","endoplasmic reticulum lumen",0.178551531757914,14771,25,51,1
+"150","GO:0016740","transferase activity",0.184841236390575,14771,2537,51,13
+"92","GO:0000122","negative regulation of transcription by RNA polymerase II",0.185838289676082,14771,27,51,1
+"118","GO:0005764","lysosome",0.185838289676082,14771,27,51,1
+"249","GO:0035251","UDP-glucosyltransferase activity",0.185838289676082,14771,27,51,1
+"70","GO:0080188","gene silencing by RNA-directed DNA methylation",0.190822363315052,14771,28,51,1
+"45","GO:0006457","protein folding",0.191747478427096,14771,149,51,2
+"90","GO:0009809","lignin biosynthetic process",0.20048427803534,14771,30,51,1
+"56","GO:0051726","regulation of cell cycle",0.205167161792581,14771,31,51,1
+"128","GO:0016604","nuclear body",0.208102947118239,14771,32,51,1
+"129","GO:0005811","lipid droplet",0.208102947118239,14771,32,51,1
+"86","GO:0007017","microtubule-based process",0.212574972799436,14771,33,51,1
+"16","GO:0042546","cell wall biogenesis",0.215041535439638,14771,34,51,1
+"31","GO:0006979","response to oxidative stress",0.215041535439638,14771,168,51,2
+"132","GO:0031966","mitochondrial membrane",0.215041535439638,14771,35,51,1
+"154","GO:0030527","structural constituent of chromatin",0.215041535439638,14771,34,51,1
+"186","GO:0004185","serine-type carboxypeptidase activity",0.215041535439638,14771,35,51,1
+"232","GO:0031418","L-ascorbic acid binding",0.215041535439638,14771,35,51,1
+"245","GO:0031072","heat shock protein binding",0.218780077453454,14771,36,51,1
+"52","GO:0031146","SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",0.221206521410655,14771,37,51,1
+"110","GO:0032580","Golgi cisterna membrane",0.221206521410655,14771,37,51,1
+"37","GO:0006325","chromatin organization",0.222149958543274,14771,176,51,2
+"55","GO:0051603","proteolysis involved in protein catabolic process",0.222149958543274,14771,38,51,1
+"89","GO:0009636","response to toxic substance",0.222149958543274,14771,38,51,1
+"178","GO:0016758","hexosyltransferase activity",0.224207248163037,14771,39,51,1
+"201","GO:0042910","xenobiotic transmembrane transporter activity",0.224207248163037,14771,39,51,1
+"23","GO:0030244","cellulose biosynthetic process",0.231660990565118,14771,41,51,1
+"104","GO:0000786","nucleosome",0.231660990565118,14771,41,51,1
+"81","GO:0098655","monoatomic cation transmembrane transport",0.233672517178051,14771,42,51,1
+"185","GO:0004180","carboxypeptidase activity",0.233672517178051,14771,42,51,1
+"176","GO:0003735","structural constituent of ribosome",0.266312117962462,14771,204,51,2
+"182","GO:0008757","S-adenosylmethionine-dependent methyltransferase activity",0.266312117962462,14771,49,51,1
+"125","GO:0019005","SCF ubiquitin ligase complex",0.268996168749835,14771,50,51,1
+"242","GO:0043169","cation binding",0.272097409840115,14771,51,51,1
+"84","GO:0009739","response to gibberellin",0.284782971515002,14771,54,51,1
+"119","GO:0000785","chromatin",0.290511643035659,14771,56,51,1
+"135","GO:0009527","plastid outer membrane",0.290511643035659,14771,56,51,1
+"79","GO:0006812","monoatomic cation transport",0.291404030656302,14771,57,51,1
+"162","GO:0051287","NAD binding",0.291404030656302,14771,57,51,1
+"30","GO:0009664","plant-type cell wall organization",0.303275774882332,14771,60,51,1
+"2","GO:0006355","regulation of DNA-templated transcription",0.308986028648445,14771,1130,51,6
+"237","GO:0140825","lactoperoxidase activity",0.312864785929846,14771,63,51,1
+"136","GO:0009707","chloroplast outer membrane",0.315745671637042,14771,65,51,1
+"216","GO:0016887","ATP hydrolysis activity",0.315745671637042,14771,448,51,3
+"234","GO:0005507","copper ion binding",0.315745671637042,14771,65,51,1
+"18","GO:0009611","response to wounding",0.318103009803832,14771,66,51,1
+"113","GO:0005840","ribosome",0.32426008989825,14771,247,51,2
+"148","GO:0005524","ATP binding",0.324944603725444,14771,1923,51,9
+"215","GO:0004519","endonuclease activity",0.324944603725444,14771,69,51,1
+"67","GO:0031047","regulatory ncRNA-mediated gene silencing",0.327105923684664,14771,70,51,1
+"107","GO:0009536","plastid",0.329328428631527,14771,1426,51,7
+"62","GO:0071456","cellular response to hypoxia",0.335417564614383,14771,73,51,1
+"8","GO:0046777","protein autophosphorylation",0.337449872251006,14771,74,51,1
+"116","GO:0005576","extracellular region",0.33934825361165,14771,710,51,4
+"39","GO:0010468","regulation of gene expression",0.345332364804691,14771,77,51,1
+"82","GO:0042744","hydrogen peroxide catabolic process",0.358158603339948,14771,83,51,1
+"101","GO:0005783","endoplasmic reticulum",0.358158603339948,14771,736,51,4
+"146","GO:0000166","nucleotide binding",0.358158603339948,14771,2000,51,9
+"155","GO:0046982","protein heterodimerization activity",0.358158603339948,14771,83,51,1
+"217","GO:0043621","protein self-association",0.358158603339948,14771,81,51,1
+"117","GO:0005730","nucleolus",0.360395954640005,14771,281,51,2
+"177","GO:0008194","UDP-glycosyltransferase activity",0.365155036248447,14771,86,51,1
+"6","GO:0006952","defense response",0.36626673006954,14771,752,51,4
+"196","GO:0000976","transcription cis-regulatory region binding",0.36626673006954,14771,288,51,2
+"243","GO:0015293","symporter activity",0.36626673006954,14771,88,51,1
+"42","GO:0009416","response to light stimulus",0.374245933987373,14771,91,51,1
+"134","GO:0009505","plant-type cell wall",0.374245933987373,14771,92,51,1
+"139","GO:0005759","mitochondrial matrix",0.374245933987373,14771,92,51,1
+"50","GO:0006633","fatty acid biosynthetic process",0.385910427516946,14771,96,51,1
+"214","GO:0004518","nuclease activity",0.40721719126412,14771,103,51,1
+"144","GO:0003700","DNA-binding transcription factor activity",0.40793553559077,14771,806,51,4
+"142","GO:0000981","DNA-binding transcription factor activity, RNA polymerase II-specific",0.41585771573203,14771,107,51,1
+"25","GO:0006412","translation",0.416229542826276,14771,327,51,2
+"241","GO:0017018","myosin phosphatase activity",0.417832838854611,14771,109,51,1
+"240","GO:0004722","protein serine/threonine phosphatase activity",0.421921519138553,14771,111,51,1
+"47","GO:0009408","response to heat",0.429009777806077,14771,114,51,1
+"15","GO:0006486","protein glycosylation",0.430813152639543,14771,118,51,1
+"85","GO:0006260","DNA replication",0.430813152639543,14771,119,51,1
+"115","GO:1990904","ribonucleoprotein complex",0.430813152639543,14771,344,51,2
+"121","GO:0031969","chloroplast membrane",0.430813152639543,14771,119,51,1
+"166","GO:0000287","magnesium ion binding",0.430813152639543,14771,117,51,1
+"200","GO:0015297","antiporter activity",0.430813152639543,14771,117,51,1
+"239","GO:0004721","phosphoprotein phosphatase activity",0.462988013951402,14771,131,51,1
+"111","GO:0000139","Golgi membrane",0.46976079171158,14771,375,51,2
+"105","GO:0005694","chromosome",0.472140285978472,14771,136,51,1
+"38","GO:0006338","chromatin remodeling",0.475551600220839,14771,139,51,1
+"143","GO:0003677","DNA binding",0.475551600220839,14771,1445,51,6
+"225","GO:0016705","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",0.486411076172287,14771,144,51,1
+"21","GO:0050896","response to stimulus",0.49949606267135,14771,150,51,1
+"151","GO:0004674","protein serine/threonine kinase activity",0.500965887756745,14771,670,51,3
+"32","GO:0009414","response to water deprivation",0.502207022980248,14771,153,51,1
+"223","GO:0004497","monooxygenase activity",0.507216634865973,14771,156,51,1
+"109","GO:0005794","Golgi apparatus",0.510701225002285,14771,685,51,3
+"26","GO:0042742","defense response to bacterium",0.512073617517812,14771,160,51,1
+"100","GO:0016020","membrane",0.525527046784324,14771,5225,51,19
+"126","GO:0005654","nucleoplasm",0.525527046784324,14771,171,51,1
+"138","GO:0000325","plant-type vacuole",0.525527046784324,14771,169,51,1
+"140","GO:0005874","microtubule",0.525527046784324,14771,171,51,1
+"220","GO:0042803","protein homodimerization activity",0.525527046784324,14771,170,51,1
+"175","GO:0003729","mRNA binding",0.532165623167273,14771,444,51,2
+"5","GO:0016310","phosphorylation",0.536030357979497,14771,1009,51,4
+"149","GO:0016301","kinase activity",0.536030357979497,14771,1009,51,4
+"103","GO:0005886","plasma membrane",0.56686114155741,14771,1623,51,6
+"141","GO:0005575","cellular_component",0.56686114155741,14771,196,51,1
+"3","GO:0006357","regulation of transcription by RNA polymerase II",0.568015739081968,14771,198,51,1
+"224","GO:0005506","iron ion binding",0.572777145340283,14771,203,51,1
+"246","GO:0005525","GTP binding",0.572777145340283,14771,202,51,1
+"54","GO:0016567","protein ubiquitination",0.574204108774689,14771,492,51,2
+"208","GO:0016746","acyltransferase activity",0.588593532040054,14771,214,51,1
+"66","GO:0006974","DNA damage response",0.591530641397123,14771,217,51,1
+"218","GO:0005509","calcium ion binding",0.592571325223735,14771,219,51,1
+"131","GO:0043231","intracellular membrane-bounded organelle",0.600715217384413,14771,225,51,1
+"64","GO:0006281","DNA repair",0.618832218048643,14771,237,51,1
+"106","GO:0009507","chloroplast",0.619821908842996,14771,1447,51,5
+"133","GO:0005773","vacuole",0.619821908842996,14771,240,51,1
+"168","GO:0016829","lyase activity",0.620752999686851,14771,243,51,1
+"99","GO:0005634","nucleus",0.636329378208828,14771,3845,51,13
+"188","GO:0016787","hydrolase activity",0.641976277068498,14771,1793,51,6
+"197","GO:0008270","zinc ion binding",0.641976277068498,14771,578,51,2
+"44","GO:0055085","transmembrane transport",0.643633218607661,14771,585,51,2
+"97","GO:0009506","plasmodesma",0.643633218607661,14771,265,51,1
+"29","GO:0032259","methylation",0.653442732543358,14771,275,51,1
+"180","GO:0008168","methyltransferase activity",0.661934396474385,14771,283,51,1
+"78","GO:0006811","monoatomic ion transport",0.672722178402675,14771,293,51,1
+"112","GO:0005739","mitochondrion",0.677336615966648,14771,953,51,3
+"120","GO:0009570","chloroplast stroma",0.682681539999376,14771,305,51,1
+"187","GO:0008233","peptidase activity",0.754283202183455,14771,371,51,1
+"95","GO:0005829","cytosol",0.77727950172624,14771,1118,51,3
+"34","GO:0006508","proteolysis",0.780029683978455,14771,405,51,1
+"102","GO:0005789","endoplasmic reticulum membrane",0.789723602753576,14771,420,51,1
+"147","GO:0004672","protein kinase activity",0.791979486897956,14771,808,51,2
+"1","GO:0015031","protein transport",0.818568130630576,14771,466,51,1
+"153","GO:0106310","protein serine kinase activity",0.877967662518386,14771,573,51,1
+"152","GO:0005515","protein binding",0.913454401913159,14771,2252,51,5
+"108","GO:0005737","cytoplasm",0.967864240102526,14771,2691,51,5
+"213","GO:0003723","RNA binding",0.967864240102526,14771,952,51,1

@@ -1,0 +1,57 @@
+"","set.GOID","set.GOTERM","p_adjust","total","interest","set_total","set_interest"
+"2","GO:0019748","secondary metabolic process",0.0227411146665375,14771,2,9,1
+"47","GO:0047998","hyoscyamine (6S)-dioxygenase activity",0.0227411146665375,14771,1,9,1
+"56","GO:0052793","pectin acetylesterase activity",0.0227411146665375,14771,2,9,1
+"13","GO:0009805","coumarin biosynthetic process",0.047691717896496,14771,7,9,1
+"54","GO:0018685","alkane 1-monooxygenase activity",0.047691717896496,14771,6,9,1
+"6","GO:0031349","positive regulation of defense response",0.0866800808996111,14771,18,9,1
+"8","GO:1900426","positive regulation of defense response to bacterium",0.0866800808996111,14771,19,9,1
+"12","GO:0002238","response to molecule of fungal origin",0.0866800808996111,14771,21,9,1
+"44","GO:0016706","2-oxoglutarate-dependent dioxygenase activity",0.0866800808996111,14771,23,9,1
+"11","GO:1990961","xenobiotic detoxification by transmembrane export across the plasma membrane",0.094968316307152,14771,33,9,1
+"21","GO:0005789","endoplasmic reticulum membrane",0.094968316307152,14771,420,9,2
+"26","GO:0004180","carboxypeptidase activity",0.094968316307152,14771,42,9,1
+"27","GO:0004185","serine-type carboxypeptidase activity",0.094968316307152,14771,35,9,1
+"41","GO:0042910","xenobiotic transmembrane transporter activity",0.094968316307152,14771,39,9,1
+"45","GO:0031418","L-ascorbic acid binding",0.094968316307152,14771,35,9,1
+"14","GO:0009611","response to wounding",0.138296021211438,14771,66,9,1
+"7","GO:0046777","protein autophosphorylation",0.140406383974002,14771,74,9,1
+"38","GO:0106310","protein serine kinase activity",0.140406383974002,14771,573,9,2
+"16","GO:0005576","extracellular region",0.158427942776956,14771,710,9,2
+"17","GO:0043229","intracellular organelle",0.158427942776956,14771,117,9,1
+"20","GO:0005783","endoplasmic reticulum",0.158427942776956,14771,736,9,2
+"30","GO:0016747","acyltransferase activity, transferring groups other than amino-acyl groups",0.158427942776956,14771,94,9,1
+"33","GO:0004674","protein serine/threonine kinase activity",0.158427942776956,14771,670,9,2
+"40","GO:0015297","antiporter activity",0.158427942776956,14771,117,9,1
+"48","GO:0051213","dioxygenase activity",0.158427942776956,14771,97,9,1
+"32","GO:0004672","protein kinase activity",0.17508656675497,14771,808,9,2
+"53","GO:0016705","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",0.17508656675497,14771,144,9,1
+"51","GO:0004497","monooxygenase activity",0.182313476824241,14771,156,9,1
+"3","GO:0016310","phosphorylation",0.206876794598183,14771,1009,9,2
+"25","GO:0005575","cellular_component",0.206876794598183,14771,196,9,1
+"36","GO:0016301","kinase activity",0.206876794598183,14771,1009,9,2
+"43","GO:0016491","oxidoreductase activity",0.206876794598183,14771,957,9,2
+"52","GO:0005506","iron ion binding",0.206876794598183,14771,203,9,1
+"23","GO:0043231","intracellular membrane-bounded organelle",0.212574201264589,14771,225,9,1
+"34","GO:0004842","ubiquitin-protein transferase activity",0.219927916976312,14771,248,9,1
+"55","GO:0020037","heme binding",0.219927916976312,14771,241,9,1
+"9","GO:0071555","cell wall organization",0.27548331532657,14771,326,9,1
+"15","GO:0008150","biological_process",0.290585401751799,14771,356,9,1
+"28","GO:0008233","peptidase activity",0.293888545717408,14771,371,9,1
+"1","GO:0006508","proteolysis",0.30998654247157,14771,405,9,1
+"49","GO:0003729","mRNA binding",0.328135013499502,14771,444,9,1
+"4","GO:0016567","protein ubiquitination",0.350469599051282,14771,492,9,1
+"42","GO:0003676","nucleic acid binding",0.367442851474011,14771,534,9,1
+"10","GO:0055085","transmembrane transport",0.377149667341859,14771,585,9,1
+"29","GO:0016787","hydrolase activity",0.377149667341859,14771,1793,9,2
+"50","GO:0003674","molecular_function",0.377149667341859,14771,596,9,1
+"35","GO:0005524","ATP binding",0.394520368358599,14771,1923,9,2
+"31","GO:0000166","nucleotide binding",0.407753762844001,14771,2000,9,2
+"5","GO:0006952","defense response",0.428855213459851,14771,752,9,1
+"24","GO:0005739","mitochondrion",0.505583874617525,14771,953,9,1
+"37","GO:0016740","transferase activity",0.51080447122555,14771,2537,9,2
+"46","GO:0046872","metal ion binding",0.51080447122555,14771,2523,9,2
+"22","GO:0005886","plasma membrane",0.686068445264183,14771,1623,9,1
+"18","GO:0016020","membrane",0.696294155733679,14771,5225,9,3
+"39","GO:0005515","protein binding",0.788528605292461,14771,2252,9,1
+"19","GO:0005634","nucleus",0.933764773404568,14771,3845,9,1

@@ -1,0 +1,43 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Triticum aestivum - REFLIST (103387)	upload_1 (133)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+malate dehydrogenase (decarboxylating) (NADP+) activity (GO:0004473)	12	3	.02	+	 > 100	9.33E-07	3.13E-04
+histone H3K4me/H3K4me2/H3K4me3 demethylase activity (GO:0034647)	17	3	.02	+	 > 100	2.33E-06	6.83E-04
+malic enzyme activity (GO:0004470)	17	3	.02	+	 > 100	2.33E-06	6.07E-04
+pectin acetylesterase activity (GO:0052793)	18	3	.02	+	 > 100	2.71E-06	6.37E-04
+histone H3K4 demethylase activity (GO:0032453)	20	3	.03	+	 > 100	3.60E-06	7.69E-04
+alpha-(1,2)-fucosyltransferase activity (GO:0031127)	53	6	.07	+	88.00	1.71E-10	4.02E-07
+galactoside 2-alpha-L-fucosyltransferase activity (GO:0008107)	53	6	.07	+	88.00	1.71E-10	2.01E-07
+fucosyltransferase activity (GO:0008417)	62	6	.08	+	75.23	4.11E-10	3.22E-07
+dipeptidyl-peptidase activity (GO:0008239)	33	3	.04	+	70.67	1.43E-05	2.25E-03
+histone H3 demethylase activity (GO:0141052)	37	3	.05	+	63.03	1.98E-05	2.90E-03
+malate dehydrogenase activity (GO:0016615)	42	3	.05	+	55.52	2.83E-05	3.91E-03
+protein demethylase activity (GO:0140457)	46	3	.06	+	50.70	3.66E-05	4.30E-03
+histone demethylase activity (GO:0032452)	46	3	.06	+	50.70	3.66E-05	4.09E-03
+protein-folding chaperone binding (GO:0051087)	156	6	.20	+	29.90	7.78E-08	3.66E-05
+phosphotransferase activity, phosphate group as acceptor (GO:0016776)	80	3	.10	+	29.15	1.77E-04	1.73E-02
+cellulose synthase (UDP-forming) activity (GO:0016760)	98	3	.13	+	23.80	3.15E-04	2.96E-02
+cellulose synthase activity (GO:0016759)	98	3	.13	+	23.80	3.15E-04	2.85E-02
+demethylase activity (GO:0032451)	102	3	.13	+	22.86	3.53E-04	2.96E-02
+mannan synthase activity (GO:0051753)	110	3	.14	+	21.20	4.38E-04	3.43E-02
+beta-1,4-mannosyltransferase activity (GO:0019187)	110	3	.14	+	21.20	4.38E-04	3.32E-02
+unfolded protein binding (GO:0051082)	337	9	.43	+	20.76	8.87E-10	5.21E-07
+amino acid transmembrane transporter activity (GO:0015171)	273	5	.35	+	14.24	3.27E-05	4.04E-03
+carboxylic acid transmembrane transporter activity (GO:0046943)	367	5	.47	+	10.59	1.29E-04	1.37E-02
+organic acid transmembrane transporter activity (GO:0005342)	367	5	.47	+	10.59	1.29E-04	1.31E-02
+organic anion transmembrane transporter activity (GO:0008514)	456	5	.59	+	8.52	3.45E-04	3.00E-02
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor (GO:0016616)	713	6	.92	+	6.54	3.57E-04	2.90E-02
+hexosyltransferase activity (GO:0016758)	1521	10	1.96	+	5.11	3.17E-05	4.14E-03
+glycosyltransferase activity (GO:0016757)	2350	15	3.02	+	4.96	4.48E-07	1.75E-04
+catalytic activity (GO:0003824)	34203	69	44.00	+	1.57	1.13E-05	1.90E-03
+molecular_function (GO:0003674)	58267	100	74.96	+	1.33	9.59E-06	1.88E-03
+Unclassified (UNCLASSIFIED)	45120	33	58.04	-	.57	9.59E-06	1.73E-03

@@ -1,0 +1,17 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Oryza sativa)
+Reference List:	Oryza sativa (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Oryza sativa - REFLIST (43659)	upload_1 (17)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+eukaryotic translation elongation factor 1 complex (GO:0005853)	3	2	.00	+	 > 100	1.42E-06	1.21E-03
+cytosol (GO:0005829)	913	5	.36	+	14.06	2.04E-05	5.78E-03
+protein-containing complex (GO:0032991)	2699	7	1.05	+	6.66	3.89E-05	8.28E-03
+cytoplasm (GO:0005737)	6442	11	2.51	+	4.39	3.77E-06	1.61E-03
+intracellular anatomical structure (GO:0005622)	10370	12	4.04	+	2.97	5.84E-05	9.96E-03

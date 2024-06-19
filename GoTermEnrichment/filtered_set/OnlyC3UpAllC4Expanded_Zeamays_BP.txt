@@ -1,0 +1,31 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Zea mays)
+Reference List:	Zea mays (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Zea mays - REFLIST (39198)	upload_1 (33)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+'de novo' cotranslational protein folding (GO:0051083)	9	5	.01	+	 > 100	6.10E-13	2.51E-09
+phosphatidic acid metabolic process (GO:0046473)	4	2	.00	+	 > 100	1.03E-05	3.52E-03
+phosphatidic acid biosynthetic process (GO:0006654)	4	2	.00	+	 > 100	1.03E-05	3.25E-03
+regulation of translational fidelity (GO:0006450)	22	5	.02	+	 > 100	2.44E-11	5.03E-08
+'de novo' protein folding (GO:0006458)	56	5	.05	+	 > 100	1.76E-09	2.42E-06
+protein peptidyl-prolyl isomerization (GO:0000413)	23	2	.02	+	 > 100	2.03E-04	4.40E-02
+protein folding (GO:0006457)	338	7	.28	+	24.60	1.34E-08	1.38E-05
+protein maturation (GO:0051604)	423	7	.36	+	19.66	6.05E-08	3.55E-05
+regulation of biological quality (GO:0065008)	328	5	.28	+	18.11	8.35E-06	3.12E-03
+gene expression (GO:0010467)	2469	13	2.08	+	6.25	4.36E-08	2.99E-05
+macromolecule biosynthetic process (GO:0009059)	3002	13	2.53	+	5.14	4.20E-07	2.16E-04
+biosynthetic process (GO:0009058)	4603	17	3.88	+	4.39	2.81E-08	2.31E-05
+cellular biosynthetic process (GO:0044249)	4296	15	3.62	+	4.15	5.98E-07	2.74E-04
+organic substance biosynthetic process (GO:1901576)	4468	15	3.76	+	3.99	9.92E-07	4.08E-04
+protein metabolic process (GO:0019538)	3501	11	2.95	+	3.73	8.75E-05	2.25E-02
+macromolecule metabolic process (GO:0043170)	5906	15	4.97	+	3.02	3.22E-05	9.48E-03
+nitrogen compound metabolic process (GO:0006807)	6800	15	5.72	+	2.62	1.70E-04	3.90E-02
+cellular metabolic process (GO:0044237)	8081	17	6.80	+	2.50	8.28E-05	2.27E-02
+primary metabolic process (GO:0044238)	8368	17	7.04	+	2.41	1.31E-04	3.17E-02

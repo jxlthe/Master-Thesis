@@ -1,0 +1,47 @@
+"","set.GOID","set.GOTERM","p_adjust","total","interest","set_total","set_interest"
+"5","GO:0007517","muscle organ development",0.0121009815472258,14771,5,7,1
+"10","GO:0006695","cholesterol biosynthetic process",0.0121009815472258,14771,4,7,1
+"15","GO:0033384","geranyl diphosphate biosynthetic process",0.0121009815472258,14771,4,7,1
+"16","GO:0045337","farnesyl diphosphate biosynthetic process",0.0121009815472258,14771,4,7,1
+"19","GO:0010047","fruit dehiscence",0.0121009815472258,14771,3,7,1
+"27","GO:0004103","choline kinase activity",0.0121009815472258,14771,4,7,1
+"28","GO:0004305","ethanolamine kinase activity",0.0121009815472258,14771,4,7,1
+"33","GO:0004161","dimethylallyltranstransferase activity",0.0121009815472258,14771,5,7,1
+"34","GO:0004337","geranyltranstransferase activity",0.0121009815472258,14771,5,7,1
+"8","GO:0046474","glycerophospholipid biosynthetic process",0.0130664057964196,14771,6,7,1
+"4","GO:0006657","CDP-choline pathway",0.015831635205441,14771,8,7,1
+"2","GO:0006646","phosphatidylethanolamine biosynthetic process",0.0181330481778571,14771,10,7,1
+"3","GO:0006656","phosphatidylcholine biosynthetic process",0.0184082791649163,14771,11,7,1
+"43","GO:0004445","inositol-polyphosphate 5-phosphatase activity",0.021741988596334,14771,14,7,1
+"12","GO:0008203","cholesterol metabolic process",0.0231820373013869,14771,16,7,1
+"22","GO:0046856","phosphatidylinositol dephosphorylation",0.0257924103483722,14771,19,7,1
+"14","GO:0016126","sterol biosynthetic process",0.0313286661948533,14771,26,7,1
+"35","GO:0016765","transferase activity, transferring alkyl or aryl (other than methyl) groups",0.0313286661948533,14771,25,7,1
+"1","GO:0006629","lipid metabolic process",0.0390548001168206,14771,442,7,2
+"13","GO:0008299","isoprenoid biosynthetic process",0.0390548001168206,14771,35,7,1
+"9","GO:0006694","steroid biosynthetic process",0.0393227761830926,14771,40,7,1
+"11","GO:0008202","steroid metabolic process",0.0393227761830926,14771,40,7,1
+"18","GO:0009834","plant-type secondary cell wall biogenesis",0.0422718104322859,14771,45,7,1
+"6","GO:0008654","phospholipid biosynthetic process",0.0445055562313639,14771,51,7,1
+"32","GO:0003677","DNA binding",0.0445055562313639,14771,1445,7,3
+"45","GO:0016791","phosphatase activity",0.0537952494994122,14771,65,7,1
+"21","GO:0051028","mRNA transport",0.0557311182723081,14771,70,7,1
+"37","GO:0003700","DNA-binding transcription factor activity",0.0854385024519081,14771,806,7,2
+"23","GO:0050896","response to stimulus",0.109399869188206,14771,150,7,1
+"25","GO:0005634","nucleus",0.123301381072941,14771,3845,7,4
+"20","GO:0045893","positive regulation of DNA-templated transcription",0.129238664438539,14771,191,7,1
+"17","GO:0006355","regulation of DNA-templated transcription",0.136425330583325,14771,1130,7,2
+"24","GO:0005737","cytoplasm",0.16552290159516,14771,2691,7,3
+"46","GO:0043565","sequence-specific DNA binding",0.175939318141392,14771,291,7,1
+"42","GO:0003824","catalytic activity",0.23510135380239,14771,410,7,1
+"41","GO:0003729","mRNA binding",0.245839481728831,14771,444,7,1
+"39","GO:0003676","nucleic acid binding",0.282531608787816,14771,534,7,1
+"38","GO:0005515","protein binding",0.351407547061391,14771,2252,7,2
+"31","GO:0016740","transferase activity",0.396197810411649,14771,2537,7,2
+"36","GO:0046872","metal ion binding",0.396197810411649,14771,2523,7,2
+"7","GO:0016310","phosphorylation",0.41792042751894,14771,1009,7,1
+"30","GO:0016301","kinase activity",0.41792042751894,14771,1009,7,1
+"40","GO:0003723","RNA binding",0.41792042751894,14771,952,7,1
+"44","GO:0016787","hydrolase activity",0.622975739707802,14771,1793,7,1
+"29","GO:0005524","ATP binding",0.637247438756398,14771,1923,7,1
+"26","GO:0000166","nucleotide binding",0.638915935120695,14771,2000,7,1

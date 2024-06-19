@@ -1,0 +1,58 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Triticum aestivum - REFLIST (103387)	upload_1 (38)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+phosphatidic acid metabolic process (GO:0046473)	11	3	.00	+	 > 100	1.66E-08	2.06E-05
+phosphatidic acid biosynthetic process (GO:0006654)	11	3	.00	+	 > 100	1.66E-08	1.54E-05
+'de novo' cotranslational protein folding (GO:0051083)	15	3	.01	+	 > 100	3.72E-08	2.77E-05
+spliceosomal snRNP assembly (GO:0000387)	60	3	.02	+	 > 100	1.79E-06	6.05E-04
+phospholipid catabolic process (GO:0009395)	71	3	.03	+	 > 100	2.91E-06	9.03E-04
+regulation of translational fidelity (GO:0006450)	78	3	.03	+	 > 100	3.83E-06	1.02E-03
+protein peptidyl-prolyl isomerization (GO:0000413)	60	2	.02	+	90.69	2.45E-04	2.60E-02
+maturation of LSU-rRNA (GO:0000470)	121	4	.04	+	89.94	1.45E-07	6.00E-05
+peptidyl-proline modification (GO:0018208)	87	2	.03	+	62.55	5.04E-04	4.57E-02
+mRNA transport (GO:0051028)	147	3	.05	+	55.52	2.43E-05	5.02E-03
+establishment of RNA localization (GO:0051236)	179	3	.07	+	45.60	4.32E-05	8.46E-03
+RNA transport (GO:0050658)	179	3	.07	+	45.60	4.32E-05	8.03E-03
+nucleic acid transport (GO:0050657)	179	3	.07	+	45.60	4.32E-05	7.65E-03
+'de novo' protein folding (GO:0006458)	181	3	.07	+	45.09	4.46E-05	7.54E-03
+RNA localization (GO:0006403)	185	3	.07	+	44.12	4.76E-05	7.69E-03
+ribosomal large subunit biogenesis (GO:0042273)	270	4	.10	+	40.31	3.31E-06	9.48E-04
+cellular lipid catabolic process (GO:0044242)	283	3	.10	+	28.84	1.64E-04	1.91E-02
+glycerophospholipid biosynthetic process (GO:0046474)	317	3	.12	+	25.75	2.28E-04	2.50E-02
+organophosphate catabolic process (GO:0046434)	355	3	.13	+	22.99	3.17E-04	3.27E-02
+glycerolipid biosynthetic process (GO:0045017)	384	3	.14	+	21.26	3.98E-04	4.00E-02
+nucleobase-containing compound transport (GO:0015931)	403	3	.15	+	20.25	4.57E-04	4.36E-02
+protein folding (GO:0006457)	690	5	.25	+	19.72	5.64E-06	1.40E-03
+phospholipid biosynthetic process (GO:0008654)	428	3	.16	+	19.07	5.44E-04	4.60E-02
+glycerophospholipid metabolic process (GO:0006650)	433	3	.16	+	18.85	5.62E-04	4.65E-02
+protein-RNA complex assembly (GO:0022618)	444	3	.16	+	18.38	6.05E-04	4.89E-02
+rRNA processing (GO:0006364)	647	4	.24	+	16.82	9.69E-05	1.33E-02
+rRNA metabolic process (GO:0016072)	709	4	.26	+	15.35	1.37E-04	1.65E-02
+ribonucleoprotein complex biogenesis (GO:0022613)	1254	7	.46	+	15.19	3.58E-07	1.33E-04
+protein maturation (GO:0051604)	937	5	.34	+	14.52	2.43E-05	5.31E-03
+ribosome biogenesis (GO:0042254)	1014	4	.37	+	10.73	5.28E-04	4.56E-02
+RNA processing (GO:0006396)	2085	7	.77	+	9.13	9.99E-06	2.32E-03
+gene expression (GO:0010467)	5786	14	2.13	+	6.58	8.03E-09	1.49E-05
+cellular component biogenesis (GO:0044085)	2925	7	1.08	+	6.51	8.52E-05	1.32E-02
+macromolecule biosynthetic process (GO:0009059)	7093	14	2.61	+	5.37	1.03E-07	5.46E-05
+biosynthetic process (GO:0009058)	11594	20	4.26	+	4.69	4.43E-10	1.65E-06
+cellular biosynthetic process (GO:0044249)	10787	17	3.96	+	4.29	6.83E-08	4.23E-05
+organic substance biosynthetic process (GO:1901576)	11164	17	4.10	+	4.14	1.13E-07	5.25E-05
+macromolecule metabolic process (GO:0043170)	16453	16	6.05	+	2.65	1.09E-04	1.45E-02
+nitrogen compound metabolic process (GO:0006807)	18495	16	6.80	+	2.35	4.41E-04	4.32E-02
+cellular metabolic process (GO:0044237)	22079	19	8.12	+	2.34	8.98E-05	1.28E-02
+primary metabolic process (GO:0044238)	22924	19	8.43	+	2.25	2.25E-04	2.54E-02
+organic substance metabolic process (GO:0071704)	24889	19	9.15	+	2.08	5.02E-04	4.66E-02
+cellular process (GO:0009987)	34797	25	12.79	+	1.95	8.59E-05	1.28E-02
+metabolic process (GO:0008152)	31138	22	11.44	+	1.92	5.26E-04	4.66E-02
+biological_process (GO:0008150)	52272	31	19.21	+	1.61	1.20E-04	1.49E-02
+Unclassified (UNCLASSIFIED)	51115	7	18.79	-	.37	1.20E-04	1.54E-02

@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Zea mays)
+Reference List:	Zea mays (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Zea mays - REFLIST (39198)	upload_1 (139)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+xyloglucan biosynthetic process (GO:0009969)	22	3	.08	+	38.45	9.38E-05	2.27E-02
+amino acid transport (GO:0006865)	92	10	.33	+	30.65	3.53E-12	1.45E-08
+heterochromatin organization (GO:0070828)	58	4	.21	+	19.45	7.10E-05	1.95E-02
+carboxylic acid transport (GO:0046942)	150	10	.53	+	18.80	3.17E-10	6.52E-07
+organic acid transport (GO:0015849)	150	10	.53	+	18.80	3.17E-10	4.35E-07
+organic anion transport (GO:0015711)	211	10	.75	+	13.36	7.24E-09	4.25E-06
+sexual reproduction (GO:0019953)	167	7	.59	+	11.82	3.07E-06	1.26E-03
+cell wall organization (GO:0071555)	343	13	1.22	+	10.69	5.13E-10	5.28E-07
+glucan biosynthetic process (GO:0009250)	133	5	.47	+	10.60	1.36E-04	2.80E-02
+external encapsulating structure organization (GO:0045229)	352	13	1.25	+	10.41	6.95E-10	5.72E-07
+anatomical structure morphogenesis (GO:0009653)	207	7	.73	+	9.54	1.19E-05	4.44E-03
+cell wall organization or biogenesis (GO:0071554)	519	15	1.84	+	8.15	8.42E-10	5.78E-07
+chromatin remodeling (GO:0006338)	282	7	1.00	+	7.00	8.02E-05	2.06E-02
+cellular component organization (GO:0016043)	2218	20	7.87	+	2.54	1.22E-04	2.64E-02
+biological_process (GO:0008150)	18752	96	66.50	+	1.44	5.71E-07	2.94E-04
+Unclassified (UNCLASSIFIED)	20446	43	72.50	-	.59	5.71E-07	2.61E-04
+nucleobase-containing compound metabolic process (GO:0006139)	2676	0	9.49	-	 < 0.01	1.19E-04	2.73E-02
+cellular aromatic compound metabolic process (GO:0006725)	3085	0	10.94	-	 < 0.01	2.12E-05	6.70E-03
+organic cyclic compound metabolic process (GO:1901360)	3171	0	11.24	-	 < 0.01	1.37E-05	4.69E-03
+heterocycle metabolic process (GO:0046483)	2948	0	10.45	-	 < 0.01	3.22E-05	9.46E-03

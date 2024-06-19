@@ -1,0 +1,25 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Sorghum bicolor)
+Reference List:	Sorghum bicolor (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Sorghum bicolor - REFLIST (33746)	upload_1 (29)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+Hsp70 protein binding (GO:0030544)	12	2	.01	+	 > 100	6.44E-05	2.67E-02
+cyclosporin A binding (GO:0016018)	19	3	.02	+	 > 100	8.67E-07	2.16E-03
+N-acylphosphatidylethanolamine-specific phospholipase D activity (GO:0070290)	14	2	.01	+	 > 100	8.48E-05	2.64E-02
+phospholipase D activity (GO:0004630)	14	2	.01	+	 > 100	8.48E-05	2.35E-02
+translation elongation factor activity (GO:0003746)	21	2	.02	+	 > 100	1.78E-04	4.03E-02
+strictosidine synthase activity (GO:0016844)	22	2	.02	+	 > 100	1.94E-04	4.03E-02
+amine-lyase activity (GO:0016843)	23	2	.02	+	 > 100	2.11E-04	4.04E-02
+peptidyl-prolyl cis-trans isomerase activity (GO:0003755)	62	3	.05	+	56.31	2.40E-05	1.49E-02
+cis-trans isomerase activity (GO:0016859)	68	3	.06	+	51.34	3.13E-05	1.56E-02
+nucleoside-triphosphatase regulator activity (GO:0060589)	108	4	.09	+	43.10	2.55E-06	3.18E-03
+GTPase regulator activity (GO:0030695)	108	4	.09	+	43.10	2.55E-06	2.12E-03
+peptide binding (GO:0042277)	94	3	.08	+	37.14	7.95E-05	2.83E-02
+amide binding (GO:0033218)	112	3	.10	+	31.17	1.32E-04	3.28E-02

@@ -1,0 +1,18 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Triticum aestivum)
+Reference List:	Triticum aestivum (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Triticum aestivum - REFLIST (103387)	upload_1 (133)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+nascent polypeptide-associated complex (GO:0005854)	30	3	.04	+	77.73	1.10E-05	1.77E-03
+Golgi cisterna membrane (GO:0032580)	61	6	.08	+	76.46	3.75E-10	3.02E-07
+Golgi cisterna (GO:0031985)	72	6	.09	+	64.78	9.55E-10	3.85E-07
+Golgi stack (GO:0005795)	81	6	.10	+	57.58	1.86E-09	4.99E-07
+Golgi apparatus subcompartment (GO:0098791)	174	6	.22	+	26.81	1.45E-07	2.92E-05
+chloroplast (GO:0009507)	2046	10	2.63	+	3.80	3.47E-04	4.65E-02

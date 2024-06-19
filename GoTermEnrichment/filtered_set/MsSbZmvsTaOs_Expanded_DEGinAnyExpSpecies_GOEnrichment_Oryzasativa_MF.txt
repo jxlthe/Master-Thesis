@@ -1,0 +1,15 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Oryza sativa)
+Reference List:	Oryza sativa (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Oryza sativa - REFLIST (43659)	upload_1 (50)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+catalytic activity (GO:0003824)	10095	28	11.56	+	2.42	5.58E-07	4.76E-04
+molecular_function (GO:0003674)	17857	40	20.45	+	1.96	2.14E-08	5.49E-05
+Unclassified (UNCLASSIFIED)	25802	10	29.55	-	.34	2.14E-08	2.75E-05
