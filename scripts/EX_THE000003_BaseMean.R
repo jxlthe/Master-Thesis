@@ -530,6 +530,308 @@ ggplot(HOG4139, aes(baseMeans, fct_inorder(gene))) +
 dev.off()
 
 
+# the other hogs
 
+
+HOG0900 <- get_baseMean("N0.HOG0000900")
+
+HOG0900_order <- c("Zm00001eb007650", "Misin01G446600","Misin02G422800",
+                       "SORBI_3001G464900","Os03g0203700", "TraesCS4A02G046800", "TraesCS4B02G258000",
+                       "TraesCS4D02G257900", "SORBI_3007G215200", "Zm00001eb199600", "Zm00001eb034200",
+                       "Misin13G189000", "Misin07G224500")
+
+HOG0900 <- HOG0900[match(HOG0900_order, HOG0900$gene),]
+
+pdf(".\\N0.HOG0000900_basemean.pdf", 4)
+
+ggplot(HOG0900, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG2654 <- get_baseMean("N0.HOG0002654")
+
+HOG2654_order <- rev(c("Misin17G100300", "SORBI_3009G109925","Misin16G126600",
+                       "SORBI_3009G110000","Misin17G100400", "Zm00001eb285800", "SORBI_3003G147000",
+                       "Misin06G127400", "Misin05G138300", "Misin06G127600", "Zm00001eb339870",
+                       "Os05g0358700", "TraesCS1B02G242500", "TraesCS1D02G230100", "TraesCS1A02G228300"))
+
+HOG2654 <- HOG2654[match(HOG2654_order, HOG2654$gene),]
+
+pdf(".\\N0.HOG0002654_basemean.pdf", 4)
+
+ggplot(HOG2654, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+
+HOG3362 <- get_baseMean("N0.HOG0003362")
+
+HOG3362_order <- rev(c("TraesCS6A02G068900", "TraesCS6D02G066700","TraesCS6B02G093100",
+                       "Os02g0121300","Misin07G021100", "SORBI_3004G018400", "Misin07G019900",
+                       "SORBI_3007G164300", "MisinT275300", "Zm00001eb181260", "Misin08G149800",
+                       "SORBI_3004G162000", "Zm00001eb242390", "Zm00001eb242400"))
+
+HOG3362 <- HOG3362[match(HOG3362_order, HOG3362$gene),]
+
+pdf(".\\N0.HOG0003362_basemean.pdf", 4)
+
+ggplot(HOG3362, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+HOG3607 <- get_baseMean("N0.HOG0003607")
+
+HOG3607_order <- rev(c("Misin04G348100", "Misin03G331200","SORBI_3002G373100",
+                       "Zm00001eb092910","Zm00001eb109110", "Zm00001eb113400", "TraesCS2A02G170200",
+                       "TraesCS2B02G196500", "TraesCS2D02G177700", "Os07g0614000", "Misin04G348000",
+                       "Misin03G331500", "Misin04G347900", "SORBI_3002G373200"))
+
+HOG3607 <- HOG3607[match(HOG3607_order, HOG3607$gene),]
+
+pdf(".\\N0.HOG0003607_basemean.pdf", 4)
+
+ggplot(HOG3607, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG3895 <- get_baseMean("N0.HOG0003895")
+
+HOG3895_order <- rev(c("TraesCS5D02G173300", "TraesCS5A02G169000","TraesCS5B02G165800",
+                       "Os01g0218032","Zm00001eb241240", "Misin14G079500", "Misin15G097700",
+                       "Misin15G097800", "SORBI_3008G085300", "Zm00001eb202980", "Misin07G374100",
+                       "SORBI_3004G149800", "Misin08G138700"))
+
+HOG3895 <- HOG3895[match(HOG3895_order, HOG3895$gene),]
+
+pdf(".\\N0.HOG0003895_basemean.pdf", 4)
+
+ggplot(HOG3895, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+HOG4099 <- get_baseMean("N0.HOG0004099", c("TraesCS7D02G515300"))
+
+HOG4099_order <- rev(c("TraesCS7A02G526800", "TraesCS7D02G515300","TraesCS7B02G444100",
+                       "Zm00001eb067090","SORBI_3006G257100", "Misin11G258100", "Os04g0666800",
+                       "Misin12G265100", "Zm00001eb433080", "Misin12G264800", "Misin11G258300",
+                       "Misin12G264600", "SORBI_3005G159100", "SORBI_3006G256900"))
+
+HOG4099 <- HOG4099[match(HOG4099_order, HOG4099$gene),]
+
+pdf(".\\N0.HOG0004099_basemean.pdf", 4)
+
+ggplot(HOG4099, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+HOG4110 <- get_baseMean("N0.HOG0004110")
+
+HOG4110_order <- rev(c("TraesCS2D02G316500", "TraesCS2A02G318800","TraesCS2B02G337100",
+                       "Os04g0450600","Misin12G099800", "Zm00001eb423830", "Zm00001eb081290",
+                       "Misin11G103600", "SORBI_3006G100332", "Misin12G100000", "Misin12G099900",
+                       "SORBI_3006G100400", "Zm00001eb081280"))
+
+HOG4110 <- HOG4110[match(HOG4110_order, HOG4110$gene),]
+
+pdf(".\\N0.HOG0004110_basemean.pdf", 4)
+
+ggplot(HOG4110, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG4459 <- get_baseMean("N0.HOG0004459")
+
+HOG4459_order <- rev(c("Misin15G077700", "SORBI_3008G042800","Misin14G028300",
+                       "Zm00001eb164080","TraesCS4D02G114100", "TraesCS4A02G199000", "TraesCS4B02G116400",
+                       "Os11g0156800", "Zm00001eb197530", "Misin10G026800", "SORBI_3005G043000",
+                       "Misin09G039700"))
+
+HOG4459 <- HOG4459[match(HOG4459_order, HOG4459$gene),]
+
+pdf(".\\N0.HOG0004459_basemean.pdf", 4)
+
+ggplot(HOG4459, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG4512 <- get_baseMean("N0.HOG0004512")
+
+HOG4512_order <- rev(c("TraesCS1D02G443100", "TraesCS1A02G433500","TraesCS1B02G469400",
+                       "Os10g0497600","Misin16G254100", "Misin17G264000", "SORBI_3009G254000",
+                       "Zm00001eb297460", "Zm00001eb095070", "Misin03G074000", "Misin04G086700",
+                       "SORBI_3002G082100"))
+
+HOG4512 <- HOG4512[match(HOG4512_order, HOG4512$gene),]
+
+pdf(".\\N0.HOG0004512_basemean.pdf", 4)
+
+ggplot(HOG4512, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG4560 <- get_baseMean("N0.HOG0004560")
+
+HOG4560_order <- rev(c("Misin12G192300", "Misin11G184300","SORBI_3006G192200",
+                       "Zm00001eb072840","TraesCS2A02G456300", "TraesCS2D02G456600", "TraesCS2B02G478400",
+                       "Os02g0685600", "Zm00001eb250950", "SORBI_3004G279200", "Misin08G243600",
+                       "Misin07G448100"))
+
+HOG4560 <- HOG4560[match(HOG4560_order, HOG4560$gene),]
+
+pdf(".\\N0.HOG0004560_basemean.pdf", 4)
+
+ggplot(HOG4560, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+
+HOG4908 <- get_baseMean("N0.HOG0004908")
+
+HOG4908_order <- rev(c("Zm00001eb106630", "Zm00001eb323620","SORBI_3002G332750",
+                       "Misin04G316100","Misin03G290500", "Misin03G290400", "TraesCS2B02G237200",
+                       "TraesCS2A02G212100", "TraesCS2D02G218000", "Os07g0549700", "Misin07G544600",
+                       "SORBI_3004G347600"))
+
+HOG4908 <- HOG4908[match(HOG4908_order, HOG4908$gene),]
+
+pdf(".\\N0.HOG0004908_basemean.pdf", 4)
+
+ggplot(HOG4908, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+
+HOG5130 <- get_baseMean("N0.HOG0005130", c("TraesCS1A02G291800"))
+
+HOG5130 <- HOG5130[!is.na(HOG5130$gene),]
+
+HOG5130_order <- rev(c("Misin16G168700", "Misin17G177900","SORBI_3009G167600",
+                       "Zm00001eb289950","TraesCS1A02G291800", "TraesCS1B02G301200", "TraesCS1D02G290300",
+                       "Os01g0833400", "Misin05G319300", "Zm00001eb368310", "SORBI_3003G345600",
+                       "Misin06G312700"))
+
+HOG5130 <- HOG5130[match(HOG5130_order, HOG5130$gene),]
+
+pdf(".\\N0.HOG0005130_basemean.pdf", 4)
+
+ggplot(HOG5130, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+
+HOG5249 <- get_baseMean("N0.HOG0005249", c("TraesCS1A02G045700"))
+
+HOG5249_order <- rev(c("Misin16G013900", "SORBI_3009G017732","Misin17G016900",
+                       "Zm00001eb355550","TraesCS1B02G059100", "TraesCS1A02G045700", "Os05g0116100",
+                       "Misin16G014000", "Misin17G016800", "SORBI_3009G017800", "Zm00001eb355540",
+                       "Zm00001eb266260"))
+
+HOG5249 <- HOG5249[match(HOG5249_order, HOG5249$gene),]
+
+pdf(".\\N0.HOG0005249_basemean.pdf", 4)
+
+ggplot(HOG5249, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+
+HOG5521 <- get_baseMean("N0.HOG0005521")
+
+HOG5521_order <- rev(c("MisinT054900", "Misin14G001900","MisinT103100",
+                       "Misin14G086900","SORBI_3005G002000", "Os12g0562400", "TraesCS5D02G160300",
+                       "Zm00001eb229100", "Zm00001eb229070", "Misin14G002300", "SORBI_3008G002000"))
+
+HOG5521 <- HOG5521[match(HOG5521_order, HOG5521$gene),]
+
+pdf(".\\N0.HOG0005521_basemean.pdf", 4)
+
+ggplot(HOG5521, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
+
+
+
+HOG3710 <- get_baseMean("N0.HOG0003710")
+
+HOG3710_order <- rev(c("TraesCS7D02G317400", "TraesCS7A02G320500","TraesCS7B02G221500",
+                       "Os08g0110800","Zm00001eb260490", "Zm00001eb363030", "Zm00001eb174080",
+                       "Misin06G230000", "SORBI_3003G276901", "Misin05G256600", "Misin07G211100",
+                       "SORBI_3007G011600", "Misin13G005800"))
+
+HOG3710 <- HOG3710[match(HOG3710_order, HOG3710$gene),]
+
+pdf(".\\N0.HOG0003710_basemean.pdf", 4)
+
+ggplot(HOG3710, aes(baseMeans, fct_inorder(gene))) +
+  geom_bar(stat="identity", ) +
+  xlab("Base Mean") +
+  ylab("Gene")
+
+dev.off()
 
 
